@@ -25,5 +25,7 @@ Acess link (Open Acess): https://catalog.data.gov/dataset/electric-vehicle-popul
 
 
 1 - https://www.edmunds.com/electric-car/articles/percentage-of-electric-cars-in-us.html#:~:text=The%20electric%20vehicle%20market%20share,according%20to%20Edmunds%20sales%20data)
+
 2 - https://www.utilitydive.com/news/US-electric-vehicle-EV-adoption-slowdown-BOA-Bloomberg/719826/#:~:text=The%20EV%20penetration%20rate%20has,2027%20and%2029%25%20in%202030)
+
 3 - https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work
