@@ -1,7 +1,8 @@
-# Exploratory Data Analysis - Electric Vehicle Population Data.
+# 📊 Exploratory Data Analysis - Electric Vehicle Population Data.
 
 ![image](https://github.com/user-attachments/assets/ca8f4eb0-a7cc-4443-940c-4c4f7b8cd4e3)
 
+# 📜 Context:
 Is known that the automobilist market has been growing and changing for the latest years. One of the highest changes was the creation of the Electric Cars (EVs). 
 
 The percentage of electric vehicles (EVs) in the United States varies by type of measurement¹:
@@ -18,12 +19,39 @@ This particular database is about the two types of Electric Vehicles, EVs and PH
 - PHEVs³: Plug-in hybrid electric vehicles (PHEVs) use batteries to power an electric motor and another fuel, such as gasoline, to power an internal combustion engine (ICE). PHEV batteries can be charged using a wall outlet or charging equipment, by the ICE, or through regenerative braking. The vehicle typically runs on electric power until the battery is nearly depleted, and then the car automatically switches over to use the ICE.
 ![image](https://github.com/user-attachments/assets/d225a0a3-3dd1-4b82-afe2-34a53e0815d0)
 
-
+# 📖 Description:
 For this analysis, I chose a open acess dataset available in Data Gov (link below) about the electric vehicle population. This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through the Washington State Department of Licensing (DOL).
 
 Acess link (Open Acess): https://catalog.data.gov/dataset/electric-vehicle-population-data
 
-References:
+# 💡 Insights:
+- For the geographic distribution of EVs in the USA, it is noticed that the highest concentration of cars is in Washington. Is it correct to expect that only Washington state has EVs in the highest volume?
+
+    - If we look only at the dataset, not the context, we will probably say yes, but that is not the correct answer. This mistake can happen when analyzing the dataset without understanding the source. 
+    
+    - The first question about this dataset is: Who provided this dataset? State of Washington. 
+    
+    - Thus, these data were collected by the state and provided to the community. It's noticed that some occurrences are from another state, but the number is smaller.
+      
+![newplot](https://github.com/user-attachments/assets/0918075d-2b70-42e3-8714-cd4c5514caee)
+    
+- The most common EVs are Tesla with two principal models (Model Y and Model 3). Second place is Chevrolet with two models also (Bolt EV and Volt). 
+
+- In 2023, the highest quantity of EVs in the dataset. It could happen for two reasons: 
+
+    - End of Covid pandemic.
+    
+    - Return to presential work and classes (high school/college).
+![image](https://github.com/user-attachments/assets/f9b33f70-d664-4e80-aa99-4d31d6c13138)
+    
+- If you want a Battery Electric Vehicle (BEV), you can choose one of these brands: Tesla, Nissan, Chevrolet, VW, Ford, Kia, BWM, among others. 
+
+- If you want a Plug-in Hybrid Electric Vehicle (PHEV), you can choose one of these brands: Toyota, Jeep, BWM, Chevrolet, among others.   
+
+
+
+
+# 📌 References:
 
 1 - https://www.edmunds.com/electric-car/articles/percentage-of-electric-cars-in-us.html#:~:text=The%20electric%20vehicle%20market%20share,according%20to%20Edmunds%20sales%20data)
 
