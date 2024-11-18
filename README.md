@@ -24,6 +24,8 @@ For this analysis, I chose a open acess dataset available in Data Gov (link belo
 
 Acess link (Open Acess): https://catalog.data.gov/dataset/electric-vehicle-population-data
 
+📓 If you want to see more graphics and the exploratory analysis, jupyter notebook is available. 
+
 # 💡 Insights:
 - For the geographic distribution of EVs in the USA, it is noticed that the highest concentration of cars is in Washington. Is it correct to expect that only Washington state has EVs in the highest volume?
 
@@ -47,9 +49,6 @@ Acess link (Open Acess): https://catalog.data.gov/dataset/electric-vehicle-popul
 - If you want a Battery Electric Vehicle (BEV), you can choose one of these brands: Tesla, Nissan, Chevrolet, VW, Ford, Kia, BWM, among others. 
 
 - If you want a Plug-in Hybrid Electric Vehicle (PHEV), you can choose one of these brands: Toyota, Jeep, BWM, Chevrolet, among others.   
-
-
-
 
 # 📌 References:
 
